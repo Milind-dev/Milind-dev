@@ -31,7 +31,7 @@ and DS & Algo.</h3> -->
  
 ## 🙋‍♂️ Visit My Portfolio
 https://youthful-lamarr-71d844.netlify.app/
-https://foxtrade.netlify.app/
+<a href="https://foxtrade.netlify.app/">https://foxtrade.netlify.app/</a>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -112,5 +112,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src="https://komarev.com/ghpvc/?username=Milind-dev-Git">
 </a>
 <a href="https://github.com/Milind-dev-Git?tab=followers"><img src="https://img.shields.io/github/followers/Milind-dev-Git?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
